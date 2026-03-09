@@ -11,6 +11,8 @@ These themes are based on the original [Zenburn color scheme](https://github.com
 ### Zenburn
 The classic Zenburn theme adapted for Warp Terminal.
 
+<img src="previews/zenburn.yaml.svg" width="600">
+
 - **Background**: Medium-dark gray (`#3f3f3f`)
 - **Foreground**: Soft beige (`#dcdccc`)
 - **Philosophy**: Low contrast, warm tones, easy on the eyes
@@ -19,9 +21,11 @@ The classic Zenburn theme adapted for Warp Terminal.
 ### Zenburn Colorblind
 A colorblind-friendly variant of Zenburn with enhanced color differentiation.
 
+<img src="previews/zenburn_colorblind.yaml.svg" width="600">
+
 - **Background**: Medium-dark gray (`#3f3f3f`)
 - **Foreground**: Soft beige (`#dcdccc`)
-- **Modifications**: 
+- **Modifications**:
   - Adjusted red/green colors for better deuteranopia/protanopia distinction
   - Enhanced blue/magenta separation
   - More vibrant color palette while maintaining the Zenburn aesthetic
@@ -29,6 +33,8 @@ A colorblind-friendly variant of Zenburn with enhanced color differentiation.
 
 ### Zenburn Colorblind High Contrast
 A high-contrast, colorblind-friendly variant for maximum readability.
+
+<img src="previews/zenburn_colorblind_high_contrast.yaml.svg" width="600">
 
 - **Background**: Darker gray (`#2d2d2d`)
 - **Foreground**: Brighter off-white (`#eaeaea`)
